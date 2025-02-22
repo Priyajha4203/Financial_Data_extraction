@@ -3,10 +3,15 @@
 📌 Project Overview
 
 This project automates the extraction of financial details from PDF reports using a combination of Large Language Models (LLMs), NLP (SpaCy), and Regex. The extracted data includes:
+
 ✅ Company Name
+
 ✅ Report Date
+
 ✅ Profit Before Tax
+
 ✅ Revenue
+
 ✅ Net Profit After Tax
 
 The extracted information is structured and saved in JSON format, making it easy to analyze and integrate with financial systems.
