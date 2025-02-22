@@ -11,14 +11,19 @@ This project automates the extraction of financial details from PDF reports usin
 The extracted information is structured and saved in JSON format, making it easy to analyze and integrate with financial systems.
 
 🚀 Features
+
 🔹 Extracts financial data from PDFs 📄
+
 🔹 Uses OpenAI’s GPT-4 for high accuracy 🤖
+
 🔹 Falls back to Regex & SpaCy for reliability 🔍
+
 🔹 Saves extracted data in structured JSON format 📊
+
 🔹 Automates processing for multiple PDFs 📂
 
 🛠️ Tech Stack
-Python 🐍
+Python 
 OpenAI GPT-4 (for financial entity extraction)
 PyMuPDF (fitz) (for PDF text extraction)
 SpaCy (for Named Entity Recognition)
